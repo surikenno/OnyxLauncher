@@ -1,6 +1,6 @@
 # 💎 Onyx Launcher
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/surikenno/MCLuncher-oskar?color=white&label=Version&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/surikenno/OnyxLauncher?color=white&label=Version&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-black?style=for-the-badge)
 
@@ -22,12 +22,12 @@
 ## 🛠️ Instalacja i Uruchomienie
 
 ### Dla Użytkowników (.exe)
-Pobierz najnowszy plik z zakładki [Releases](https://github.com/surikenno/MCLuncher-oskar/releases) i po prostu go uruchom. 
+Pobierz najnowszy plik z zakładki [Releases](https://github.com/surikenno/OnyxLauncher/releases) i po prostu go uruchom. 
 *Wymagana zainstalowana Java (17 lub 21 dla nowszych wersji MC).*
 
 ### Dla Programistów (Z kodu źródłowego)
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/surikenno/MCLuncher-oskar.git](https://github.com/surikenno/MCLuncher-oskar.git)
-   cd MCLuncher-oskar
+   git clone [https://github.com/surikenno/MCLuncher-oskar.git](https://github.com/surikenno/OnyxLauncher.git)
+   cd OnyxLauncher
